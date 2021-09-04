@@ -3,11 +3,12 @@
  The main purpose for this app is returing model and data insights to the front app in order
  to display them in a front-back oriented web application.
 
+## Running App Address:
+http://ec2-54-221-171-55.compute-1.amazonaws.com:8000/
 
 ## Required libraries:
  flask, beautifulsoup4, requests, lxml, pandas, boto3 
  
-
 ## Command to run in the terminal: 
  py App.py
 
